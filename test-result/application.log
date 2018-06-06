@@ -1,0 +1,5 @@
+05 Jun 2018 17:12:01,858 INFO  ~ Starting /Users/EdminLee/playtest/yabe
+05 Jun 2018 17:12:02,685 WARN  ~ You're running Play! in DEV mode
+05 Jun 2018 17:12:02,794 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+05 Jun 2018 17:12:28,238 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0 for default
+05 Jun 2018 17:12:29,177 INFO  ~ Application 'Yet Another Blog Engine' is now started !
